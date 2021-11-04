@@ -1,0 +1,4 @@
+target
+*.idb
+*.pdb
+*.lock
